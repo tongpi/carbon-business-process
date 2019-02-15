@@ -1,8 +1,8 @@
 {
   "app": {
-    "title" : "HumanTask Explorer",
-    "author": "WSO2 Business Process Server",
-    "footer": "&copy; 2005 - 2018 WSO2 Inc. All Rights Reserved.",
+    "title" : "人工任务资源管理器",
+    "author": "业务流程服务器",
+    "footer": "&copy; 2005 - 2018.",
     "webappUrlName": "humantask-explorer",
     "enablePrivacyPolicy": true,
     "privacyPolicyLink": "/humantask-explorer/cookie-policy"
