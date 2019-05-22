@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  ~ Copyright (c) 2005-2010, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
  ~
@@ -29,7 +30,7 @@
             <ResourceId>/permission/admin/manage/bpel</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Add BPEL</DisplayName>
+            <DisplayName>添加 BPEL</DisplayName>
             <ResourceId>/permission/admin/manage/bpel/add</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>
