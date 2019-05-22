@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  ~ Copyright (c) 2005-2010, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
  ~
@@ -29,19 +30,19 @@
             <ResourceId>/permission/admin/manage/bpmn</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPMN Processes</DisplayName>
+            <DisplayName>管理 BPMN 流程</DisplayName>
             <ResourceId>/permission/admin/manage/bpmn/process</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPMN Process Instances</DisplayName>
+            <DisplayName>管理 BPMN 流程实例</DisplayName>
             <ResourceId>/permission/admin/manage/bpmn/instance</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPMN Packages</DisplayName>
+            <DisplayName>管理 BPMN 包</DisplayName>
             <ResourceId>/permission/admin/manage/bpmn/uploader</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPMN Substitutions</DisplayName>
+            <DisplayName>管理 BPMN 替换</DisplayName>
             <ResourceId>/permission/admin/manage/bpmn/substitute</ResourceId>
         </ManagementPermission>
         <!--

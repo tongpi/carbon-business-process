@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  ~ Copyright (c) 2005-2010, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
  ~
@@ -22,19 +23,19 @@
             <ResourceId>/permission/admin/manage/bpel</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPEL Processes</DisplayName>
+            <DisplayName>管理 BPEL 流程</DisplayName>
             <ResourceId>/permission/admin/manage/bpel/processes</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPEL Process Instances</DisplayName>
+            <DisplayName>管理 BPEL 流程实例</DisplayName>
             <ResourceId>/permission/admin/manage/bpel/instances</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Manage BPEL Packages</DisplayName>
+            <DisplayName>管理 BPEL 包</DisplayName>
             <ResourceId>/permission/admin/manage/bpel/packages</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Monitor BPEL</DisplayName>
+            <DisplayName>监控 BPEL</DisplayName>
             <ResourceId>/permission/admin/monitor/bpel</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>

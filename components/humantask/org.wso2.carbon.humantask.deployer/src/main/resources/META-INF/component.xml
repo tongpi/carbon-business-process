@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
  ~ Copyright (c) 2005-2010, WSO2 Inc. (http://www.wso2.org) All Rights Reserved.
  ~
@@ -18,18 +19,18 @@
 <component xmlns="http://products.wso2.org/carbon">
     <deployers>
             <deployer>
-                <directory>humantasks</directory>
+                <directory>人工任务</directory>
                 <extension>zip</extension>
                 <class>org.wso2.carbon.humantask.deployer.HumanTaskDeployer</class>
             </deployer>
         </deployers>
     <ManagementPermissions>
         <ManagementPermission>
-            <DisplayName>HumanTask</DisplayName>
+            <DisplayName>人工任务</DisplayName>
             <ResourceId>/permission/admin/manage/humantask</ResourceId>
         </ManagementPermission>
         <ManagementPermission>
-            <DisplayName>Add HumanTask</DisplayName>
+            <DisplayName>添加人工任务</DisplayName>
             <ResourceId>/permission/admin/manage/humantask/add</ResourceId>
         </ManagementPermission>
     </ManagementPermissions>
